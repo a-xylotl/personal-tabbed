@@ -1,5 +1,5 @@
 # About
-This is pretty much the original tabbed utility but patched and fixed because some patches are a bit old.
+This is pretty much the original tabbed utility but patched and fixed because some patches are a bit old. (Original author)
 
 Upstream is here: 
 ```
@@ -14,6 +14,8 @@ git clone https://git.suckless.org/tabbed
   - the original patch direction for st is wrong.
 - autohide
   - hides tab bar when there is only one tab.
+- hidetabs
+  - hides all tabs and reveals them when you press Modkey + Shift
 - clientnumber
   - shows the tab number because you're definitely not going to count them yourself.
 - xft
